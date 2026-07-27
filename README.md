@@ -61,9 +61,10 @@ Future development of the homeSmart site will focus on:
 - **Backend integration** : Linking the contact form to a backend server for handling form submissions and building out user authentication.
 
 ## Author
-- Github - [hoor23](https://github.com/hoor23)
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
 - Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
+
 ## Acknowledgments
 
 Special thanks to:
