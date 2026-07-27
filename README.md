@@ -30,8 +30,8 @@ This is the homeSmart website, a responsive landing page built using TailwindCSS
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/HomeSmart__LandingPage.git](https://github.com/hoor23/HomeSmart__LandingPage.git)
-- Live Site URL: [https://hoor23.github.io/HomeSmart__LandingPage/](https://hoor23.github.io/HomeSmart__LandingPage//)
+- Solution URL: [https://github.com/HooriaSaeeda/HomeSmart__LandingPage.git](https://github.com/HooriaSaeeda/HomeSmart__LandingPage.git)
+- Live Site URL: [https://hooriasaeeda.github.io/HomeSmart__LandingPage/](https://hooriasaeeda.github.io/HomeSmart__LandingPage/)
 
 ## My process
 
@@ -59,11 +59,11 @@ Future development of the homeSmart site will focus on:
 - **SEO optimization** : Implementing meta tags, improving load times, and enhancing search engine visibility.
 - **Advanced animations** : Using TailwindCSS's animation utilities or adding custom animations for a smoother and more interactive user experience.
 - **Backend integration** : Linking the contact form to a backend server for handling form submissions and building out user authentication.
-## Author
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-- Github - [hoor23](https://github.com/hoor23)
-- LinkedIn - [Hoor Seyda](www.linkedin.com/in/hoor-seyda-901176222)
 
+## Author
+- Github - [hoor23](https://github.com/hoor23)
+- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 ## Acknowledgments
 
 Special thanks to:
